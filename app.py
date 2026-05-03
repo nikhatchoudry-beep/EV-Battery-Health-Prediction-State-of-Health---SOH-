@@ -3,8 +3,7 @@ import pickle
 import numpy as np
 
 # Load model
-model = pickle.load(open("soh_model.pkl", "rb"))
-
+model_path = os.path.join(os.path.dirname(__file__), "model", "soh_model.pkl")
 # Page config
 st.set_page_config(page_title="Battery SoH Predictor", layout="centered")
 

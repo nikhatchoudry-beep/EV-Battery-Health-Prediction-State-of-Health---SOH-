@@ -3,12 +3,11 @@
 # Objectives: 
 To develop a machine learning-based system that predicts the State-of-Health (SoH) of EV batteries using real-time input parameters.The system aims to analyze battery data such as voltage,current,temperature,capacity and charge cycles to estimate battery condition accurately.
 # Why This Matters:
----
 Helps monitor battery performance and degradation
 Improves battery safety and lifespan
 Supports predictive maintenence in Electric Vehicles
 Enables smarter Battery Management Systems (BMS)
----
+
 # Technologies Used:
 ---
 Python:Used as the main programming language for developing the project

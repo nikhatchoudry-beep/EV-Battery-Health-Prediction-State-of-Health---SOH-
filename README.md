@@ -11,13 +11,13 @@ To develop a machine learning-based system that predicts the State-of-Health (So
 ---
 # Technologies Used:
 ---
-Python:Used as the main programming language for developing the project
-Pandas:Used for data cleaning and handling battery datasets
-Numpy:Used for numerical computations and data processing
-Matplotlib:Used to visualize battery data and SOH trends
-Scikit-learn:Used to build and train machine learning models
-Joblib:Used to save and load the trained model
-Streamlit:Used to create a web application for SOH prediction
+- Python:Used as the main programming language for developing the project
+- Pandas:Used for data cleaning and handling battery datasets
+- Numpy:Used for numerical computations and data processing
+- Matplotlib:Used to visualize battery data and SOH trends
+- Scikit-learn:Used to build and train machine learning models
+- Joblib:Used to save and load the trained model
+- Streamlit:Used to create a web application for SOH prediction
 ---
 # Project Demo:
 1. User Interface - Input Parameters

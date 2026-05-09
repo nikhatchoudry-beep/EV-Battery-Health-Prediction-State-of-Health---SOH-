@@ -21,8 +21,10 @@ To develop a machine learning-based system that predicts the State-of-Health (So
 ---
 # Project Demo:
 1. User Interface - Input Parameters
-2. SOH with Predictive SOH Output
-3. Automatic Dataset Testing - SOH with Battery Samples
+   <img width="925" height="764" alt="image" src="https://github.com/user-attachments/assets/1d623ec3-f03f-4b74-bd47-2c1f90c7c266" />
+
+3. SOH with Predictive SOH Output
+4. Automatic Dataset Testing - SOH with Battery Samples
 # Learning Outcomes:
 ---
 - Understanding of EV battery fundamentals
@@ -35,4 +37,4 @@ To develop a machine learning-based system that predicts the State-of-Health (So
 - Improved problem-solving and analytical skills
 ---
 
-<img width="780" height="583" alt="Screenshot 2026-05-03 182317" src="https://github.com/user-attachments/assets/b94b683a-9691-44d4-84e2-7c47eb1b53e8" />
+

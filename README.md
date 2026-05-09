@@ -25,14 +25,14 @@ To develop a machine learning-based system that predicts the State-of-Health (So
 3. Automatic Dataset Testing - SOH with Battery Samples
 # Learning Outcomes:
 ---
-Understanding of EV battery fundamentals
-Knowledge of State-of-Health (SOH) prediction
-Data preprocessing and feature engineering
-Building and evaluating ML models
-Data visualization and result interpretation
-Basic model deployment using Streamlit
-Understand how to predict battery health using real-world data
-Improved problem-solving and analytical skills
+- Understanding of EV battery fundamentals
+- Knowledge of State-of-Health (SOH) prediction
+- Data preprocessing and feature engineering
+- Building and evaluating ML models
+- Data visualization and result interpretation
+- Basic model deployment using Streamlit
+- Understand how to predict battery health using real-world data
+- Improved problem-solving and analytical skills
 ---
 
 <img width="780" height="583" alt="Screenshot 2026-05-03 182317" src="https://github.com/user-attachments/assets/b94b683a-9691-44d4-84e2-7c47eb1b53e8" />

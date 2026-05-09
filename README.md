@@ -2,7 +2,7 @@
 “A machine learning-based project to predict the State of Health (SoH) of electric vehicle batteries using historical data such as voltage, current, and temperature. It helps in monitoring battery performance, improving lifespan, and enabling predictive maintenance in EV applications.”
 # Objectives: 
 To develop a machine learning-based system that predicts the State-of-Health (SoH) of EV batteries using real-time input parameters.The system aims to analyze battery data such as voltage,current,temperature,capacity and charge cycles to estimate battery condition accurately.
----
+
 # Why This Matters:
 Helps monitor battery performance and degradation
 Improves battery safety and lifespan
